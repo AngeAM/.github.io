@@ -75,11 +75,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  # books:
+  #   title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
-    HOU, Songyan, et al. Localized emission from laser-irradiated defects in 2D hexagonal boron nitride. 2D Materials, 2017, vol. 5, no 1, p. 015010.
   conferences:
     title: 'Conference Papers'
 
@@ -99,7 +98,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
