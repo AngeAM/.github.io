@@ -1,17 +1,19 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+Download [Academic CV](https://AngeAM.github.io/files/CV_AngeMaurice.pdf)  
+Download [Short CV](https://AngeAM.github.io/files/Short_CV_AngeMaurice.pdf)
 
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Version Control Theory
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
