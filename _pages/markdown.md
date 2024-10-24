@@ -1,11 +1,14 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Gallery"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
+![gif matplotlib](/images/matplotlib.gif)  
+**An animated view of the absorbance of the vanadium electrolyte from V2+ to V5+ **
+
 
 ## Locations of key files/directories
 
